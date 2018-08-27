@@ -1,6 +1,11 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\assets",
+    "\\assets\\css",
+    "\\assets\\images",
+    "\\assets\\js"
   ],
+  "SelectedNode": "\\assets\\css\\slick.css",
   "PreviewInSolutionExplorer": false
 }
