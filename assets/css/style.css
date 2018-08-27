@@ -6473,7 +6473,7 @@ img {
 #4.2	experience-section
 --------------------------------------------------------------*/
 .experience-section {
-  background: ("images/experience/experience-bg.jpg") center center/cover no-repeat local;
+  background: url("https://raw.githubusercontent.com/sakkyb/portfolio/gh-pages/assets/images/experience/experience-bg.jpg") center center/cover no-repeat local;
   position: relative;
 }
 
