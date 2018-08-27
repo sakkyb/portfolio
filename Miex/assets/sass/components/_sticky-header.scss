@@ -1,0 +1,32 @@
+.sticky-header {
+	width: 100%;
+	position: fixed;
+	left: 0;
+	top: -100%;
+	z-index: 9999;
+	opacity: 0;
+	@include transition-time(0.7s);
+}
+
+.sticky-on {
+	opacity: 1;
+	top: 0;
+}
+
+.header-style-1 .sticky-header {
+	background-color: $white;
+	box-shadow: 0 1px 10px transparentize($black, 0.9);
+}
+
+.header-style-2 .sticky-header {
+	@include widther(992px) {
+		#navbar > ul > li {
+			padding: 19px 0;
+		}
+
+		.site-logo {
+			left: 0;
+			top: 0;
+		}
+	}
+}

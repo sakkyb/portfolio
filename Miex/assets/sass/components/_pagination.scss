@@ -1,0 +1,62 @@
+/**** pagination ****/
+.pagination-wrapper {
+	text-align: right;
+	margin-top: 45px;
+
+	@include media-query(991px) {
+		text-align: left;
+		margin-top: 35px;
+	}
+
+	@include media-query(767px) {
+		margin-top: 25px;
+	}
+
+	.pg-pagination {
+		display: inline-block;
+		overflow: hidden;
+		list-style-type: none;
+		text-align: center;
+
+		li {
+			float: left;
+			margin-right: 10px;
+
+			@include media-query(767px) {
+				margin-right: 5px;
+			}
+		}
+
+		li:last-child {
+			margin-right: 0;
+		}
+
+		li a {
+			font-family: $heading-font;
+			background-color: #e0e3e8;
+			display: block;
+			width: 30px;
+			height: 30px;
+			line-height: 30px;
+			color: $white;
+			font-weight: 500;
+			border-radius: 5px;
+		}
+
+		.active a,
+		li a:hover {
+			background: $theme-color;
+			@include linear-gradient-bg(top, $theme-color, darken($theme-color, 5%));
+			color: $white;
+		}
+	}
+}
+
+.pagination-wrapper-left {
+	text-align: left;
+	margin-top: 70px;
+
+	@include media-query(991px) {
+		margin-top: 45px;
+	}
+}

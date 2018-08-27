@@ -1,0 +1,27 @@
+.page-title {
+	@include background-style("../images/page-title.jpg", center center, cover, no-repeat, local);
+	height: 400px;
+	text-align: center;
+	position: relative;
+	display: table;
+	width: 100%;
+
+	.container {
+		vertical-align: middle;
+		display: table-cell;
+	}
+
+	h1,
+	ol {
+		color: $white;
+	}
+
+	.breadcrumb {
+		background-color: transparent;
+		padding: 0;
+
+		a {
+			color: $white;
+		}
+	}
+}

@@ -1,0 +1,86 @@
+.theme-btn {
+	font-family: $heading-font;
+	background-color: $theme-color;
+	font-size: 16px;
+	font-size: calc-rem-value(16);
+	font-weight: bold;
+	color: $white;
+	padding: 12px 40px;
+	border-radius: 50px;
+	display: inline-block;
+	text-transform: uppercase;
+	box-shadow: 0 9px 10px transparentize($theme-color, 0.7);
+
+	@include media-query(1199px) {
+		font-size: 14px;
+		font-size: calc-rem-value(14);
+		padding: 12px 35px;
+	}
+
+	@include media-query(767px) {
+		font-size: 13px;
+		font-size: calc-rem-value(13);
+		padding: 10px 35px;
+	}
+
+	&:hover {
+		color: $white;
+	}
+}
+
+.theme-btn-s2 {
+	font-family: $heading-font;
+	font-size: 15px;
+	font-size: calc-rem-value(15);
+	font-weight: 600;
+	color: $theme-color;
+	padding: 13px 35px;
+	border: 1px solid #99a7b0;
+	border-radius: 50px;
+	display: inline-block;
+	text-transform: uppercase;
+
+	@include media-query(1199px) {
+		font-size: 15px;
+		font-size: calc-rem-value(15);
+		padding: 10px 30px;
+	}
+
+	@include media-query(767px) {
+		font-size: 13px;
+		font-size: calc-rem-value(13);
+		padding: 10px 25px;
+	}
+
+	&:hover {
+		background-color: #99a7b0;
+		color: $white;
+	}
+}
+
+.theme-btn-s3 {
+	@extend .theme-btn;
+	font-size: 15px;
+	font-size: calc-rem-value(15);
+	font-weight: 600;
+	color: $white;
+	padding: 10px 25px;
+	border-radius: 50px;
+	box-shadow: none;
+
+	@include media-query(1199px) {
+		font-size: 14px;
+		font-size: calc-rem-value(14);
+		padding: 10px 20px;
+	}
+
+	@include media-query(767px) {
+		font-size: 13px;
+		font-size: calc-rem-value(13);
+	}
+
+	&:hover {
+		background-color: darken($theme-color, 10%);
+	}
+
+}
