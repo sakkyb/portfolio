@@ -1,6 +1,6 @@
 <?php 
 
-	$to = ""; // this is your Email address
+	$to = "sakshatbaral@gmail.com"; // this is your Email address
 	$from  = $_POST['email']; // this is the sender's Email address
 	$sender_name = $_POST['name'];
 	$phone = $_POST['phone'];

@@ -2,7 +2,7 @@
 	blog banar
 ************************/
 .blog-banar {
-	@include background-style("../images/blog-banar.jpg", center center, cover, no-repeat, local);
+	@include background-style("../images/personal/nerja.jpg", center center, cover, no-repeat, local);
 	width: calc(100% - 40px);
 	height: 440px;
 	margin: 20px 0 0 20px;
