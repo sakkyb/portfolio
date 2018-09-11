@@ -687,8 +687,8 @@
 			top: 0;
 			z-index: 100;
 		}
-
-		@include media-query(1300px) {
+		
+		@include media-query(300px) {
 			display: none;
 		}
 	}

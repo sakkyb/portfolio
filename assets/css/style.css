@@ -2546,7 +2546,7 @@ img {
   }
 }
 
-@media (max-width: 1300px) {
+@media (max-width: 1000px) {
   .hero-section-s4 .hero-right-pic {
     display: none;
   }
