@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="841.89px" height="698.69px" viewBox="0 0 841.89 698.69" enable-background="new 0 0 841.89 698.69" xml:space="preserve">
+<g>
+	<g>
+		
+			<image overflow="visible" opacity="0.75" width="1325" height="1429" xlink:href="FF499120.png"  transform="matrix(0.24 0 0 0.24 18.8418 405.2324)">
+		</image>
+		<g>
+			<g>
+				<defs>
+					<rect id="SVGID_1_" x="25.638" y="525.36" width="304.601" height="84.252"/>
+				</defs>
+				<use xlink:href="#SVGID_1_"  overflow="visible" fill="#E1E1D7"/>
+				<clipPath id="SVGID_2_">
+					<use xlink:href="#SVGID_1_"  overflow="visible"/>
+				</clipPath>
+				<g transform="matrix(1 0 0 1 -1.907349e-006 -3.051758e-005)" clip-path="url(#SVGID_2_)">
+					
+						<image overflow="visible" width="2622" height="2844" xlink:href="../assets/images/blog/sketches34.jpg"  transform="matrix(0.1162 0 0 0.1162 25.6377 411.2207)">
+					</image>
+				</g>
+			</g>
+		</g>
+	</g>
+	<text transform="matrix(1 0 0 1 25.6382 516.5303)" font-family="'Roboto-Bold'" font-size="12">Iteration 3</text>
+	<rect x="25.639" y="624.002" fill="none" width="313.996" height="41.354"/>
+	<text transform="matrix(1 0 0 1 25.6387 632.252)"><tspan x="0" y="0" font-family="'Roboto-Regular'" font-size="11">Not interested button added to be side by side with Join button. </tspan><tspan x="0" y="13.2" font-family="'Roboto-Regular'" font-size="11">Potential for users to accidentally click on a button underneath, </tspan><tspan x="0" y="26.4" font-family="'Roboto-Regular'" font-size="11">but side to side gives less room for error.</tspan></text>
+</g>
+<g>
+	<text transform="matrix(1 0 0 1 460.9688 516.5303)" font-family="'Roboto-Bold'" font-size="12">Iteration 4</text>
+	<g>
+		
+			<image overflow="visible" opacity="0.75" width="1324" height="1430" xlink:href="FF499127.png"  transform="matrix(0.24 0 0 0.24 454.5068 273.2324)">
+		</image>
+		<g>
+			<g>
+				<defs>
+					<rect id="SVGID_3_" x="460.97" y="525.027" width="304.6" height="84.918"/>
+				</defs>
+				<clipPath id="SVGID_4_">
+					<use xlink:href="#SVGID_3_"  overflow="visible"/>
+				</clipPath>
+				<g transform="matrix(1 0 0 1 -3.051758e-005 -3.051758e-005)" clip-path="url(#SVGID_4_)">
+					
+						<image overflow="visible" width="2622" height="2844" xlink:href="../assets/images/blog/sketches34.jpg"  transform="matrix(0.1162 0 0 0.1162 460.9688 279.5547)">
+					</image>
+				</g>
+			</g>
+		</g>
+	</g>
+	<rect x="460.969" y="624.002" fill="none" width="313.996" height="41.354"/>
+	<text transform="matrix(1 0 0 1 460.9688 632.252)"><tspan x="0" y="0" font-family="'Roboto-Regular'" font-size="11">Text buttons replaced with icons. Reduces amount to read, and </tspan><tspan x="0" y="13.2" font-family="'Roboto-Regular'" font-size="11">is quite obvious to replace with thumbs up and down icons as a </tspan><tspan x="0" y="26.4" font-family="'Roboto-Regular'" font-size="11">boolean question for them.</tspan></text>
+</g>
+<g>
+	<g>
+		
+			<image overflow="visible" opacity="0.75" width="1425" height="1948" xlink:href="FF499123.png"  transform="matrix(0.24 0 0 0.24 279.3662 6.9126)">
+		</image>
+		<g>
+			<g>
+				<defs>
+					<rect id="SVGID_5_" x="298.972" y="39.361" width="230.001" height="206"/>
+				</defs>
+				<clipPath id="SVGID_6_">
+					<use xlink:href="#SVGID_5_"  overflow="visible"/>
+				</clipPath>
+				<g clip-path="url(#SVGID_6_)">
+					
+						<image overflow="visible" opacity="0.75" width="1384" height="1909" xlink:href="FF499121.png"  transform="matrix(0.24 0 0 0.24 284.3047 11.6953)">
+					</image>
+					<g>
+						
+							<image overflow="visible" width="2355" height="3335" xlink:href="../assets/images/blog/sketches12.jpg"  transform="matrix(0.1284 0 0 0.1284 298.9756 26.6982)">
+						</image>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+	<text transform="matrix(1 0 0 1 298.9722 31.3613)" font-family="'Roboto-Bold'" font-size="12">Initial Sketch</text>
+</g>
+<g>
+	<text transform="matrix(1 0 0 1 25.6382 31.3613)" font-family="'Roboto-Bold'" font-size="12">Initial Design</text>
+	<g>
+		
+			<image overflow="visible" opacity="0.75" width="1137" height="913" xlink:href="FF499122.png"  transform="matrix(0.24 0 0 0.24 19.1753 32.8984)">
+		</image>
+		<g>
+			
+				<image overflow="visible" width="540" height="428" xlink:href="FF499120.jpg"  transform="matrix(0.4813 0 0 0.4813 25.6382 39.3613)">
+			</image>
+		</g>
+	</g>
+</g>
+<text transform="matrix(1 0 0 1 542.3027 31.3613)" font-family="'Roboto-Bold'" font-size="12">Initial Critique</text>
+<rect x="542.303" y="39.361" fill="none" width="284.667" height="206"/>
+<text transform="matrix(1 0 0 1 542.3027 47.6113)"><tspan x="0" y="0" font-family="'Roboto-Regular'" font-size="11">Use the games as an opportunity to get a consistent </tspan><tspan x="0" y="13.2" font-family="'Roboto-Regular'" font-size="11">layout. Bold style for venue and then typically there are 3 </tspan><tspan x="0" y="26.4" font-family="'Roboto-Regular'" font-size="11">key details for games: Time, People, Price. Use 3 icons </tspan><tspan x="0" y="39.6" font-family="'Roboto-Regular'" font-size="11">with an overlay of numbers for each of the different </tspan><tspan x="0" y="52.8" font-family="'Roboto-Regular'" font-size="11">details.</tspan><tspan x="0" y="79.2" font-family="'Roboto-Regular'" font-size="11">These initial points can lead to certain design changes, </tspan><tspan x="0" y="92.4" font-family="'Roboto-Regular'" font-size="11">and throughout the sketches, there were multiple develop</tspan><tspan x="279.103" y="92.4" font-family="'Roboto-Regular'" font-size="11">-</tspan><tspan x="0" y="105.6" font-family="'Roboto-Regular'" font-size="11">ments in the following areas:</tspan><tspan x="0" y="132" font-family="'Roboto-Regular'" font-size="11">1. Category icon - reduction of text</tspan><tspan x="0" y="145.2" font-family="'Roboto-Regular'" font-size="11">2. Key details - use a consistent method to view key info</tspan><tspan x="0" y="158.4" font-family="'Roboto-Regular'" font-size="11">3. Join button - potential to have subsequent no button</tspan><tspan x="0" y="184.8" font-family="'Roboto-Regular'" font-size="11">The sketches will show the transformaton of these points.</tspan></text>
+<g>
+	<g>
+		
+			<image overflow="visible" opacity="0.75" width="1324" height="1429" xlink:href="E5A1F9FF.png"  transform="matrix(0.24 0 0 0.24 454.5059 272.2324)">
+		</image>
+		<g>
+			<g>
+				<defs>
+					<rect id="SVGID_7_" x="460.969" y="312.001" width="304.601" height="66.667"/>
+				</defs>
+				<clipPath id="SVGID_8_">
+					<use xlink:href="#SVGID_7_"  overflow="visible"/>
+				</clipPath>
+				<g transform="matrix(1 0 0 1 -3.051758e-005 0)" clip-path="url(#SVGID_8_)">
+					
+						<image overflow="visible" width="2622" height="2844" xlink:href="../assets/images/blog/sketches34.jpg"  transform="matrix(0.1162 0 0 0.1162 460.9688 278.5293)">
+					</image>
+				</g>
+			</g>
+		</g>
+	</g>
+	<text transform="matrix(1 0 0 1 460.9688 302.165)" font-family="'Roboto-Bold'" font-size="12">Iteration 2</text>
+	<rect x="460.97" y="389.335" fill="none" width="304.6" height="87.625"/>
+	<text transform="matrix(1 0 0 1 460.9707 397.585)"><tspan x="0" y="0" font-family="'Roboto-Regular'" font-size="11">Further information option added. There can be more details </tspan><tspan x="0" y="13.2" font-family="'Roboto-Regular'" font-size="11">to a specific game, such as certain criteria (skill, age etc.).</tspan><tspan x="0" y="39.601" font-family="'Roboto-Regular'" font-size="11">Not interested button added, this can be used to hide certain </tspan><tspan x="0" y="52.8" font-family="'Roboto-Regular'" font-size="11">types of games for users. Potential to enhance this feature to </tspan><tspan x="0" y="66" font-family="'Roboto-Regular'" font-size="11">gather more information for other games.</tspan></text>
+</g>
+<g>
+	<g>
+		<text transform="matrix(1 0 0 1 25.6382 302.3926)" font-family="'Roboto-Bold'" font-size="12">Iteration 1</text>
+	</g>
+	<rect x="262.303" y="312.229" fill="none" width="148.398" height="175.25"/>
+	<text transform="matrix(1 0 0 1 262.3027 320.4785)"><tspan x="0" y="0" font-family="'Roboto-Regular'" font-size="11">Icon text removed, icons are </tspan><tspan x="0" y="13.201" font-family="'Roboto-Regular'" font-size="11">explicit enough to show that </tspan><tspan x="0" y="26.4" font-family="'Roboto-Regular'" font-size="11">one is a group and the other is </tspan><tspan x="0" y="39.601" font-family="'Roboto-Regular'" font-size="11">an individual element.</tspan><tspan x="0" y="66" font-family="'Roboto-Regular'" font-size="11">Three key details added, into </tspan><tspan x="0" y="79.201" font-family="'Roboto-Regular'" font-size="11">icon format so as to allow for </tspan><tspan x="0" y="92.4" font-family="'Roboto-Regular'" font-size="11">consistent layout. Now users </tspan><tspan x="0" y="105.601" font-family="'Roboto-Regular'" font-size="11">can easily compare between </tspan><tspan x="0" y="118.801" font-family="'Roboto-Regular'" font-size="11">games.</tspan><tspan x="0" y="145.201" font-family="'Roboto-Regular'" font-size="11">Faded line added to separate </tspan><tspan x="0" y="158.4" font-family="'Roboto-Regular'" font-size="11">different game.</tspan></text>
+	<g>
+		
+			<image overflow="visible" opacity="0.75" width="1429" height="1948" xlink:href="E5A1F9FB.png"  transform="matrix(0.24 0 0 0.24 5.3662 39.9126)">
+		</image>
+		<g>
+			<g>
+				<defs>
+					<rect id="SVGID_9_" x="25.638" y="312.229" width="226.667" height="175.251"/>
+				</defs>
+				<clipPath id="SVGID_10_">
+					<use xlink:href="#SVGID_9_"  overflow="visible"/>
+				</clipPath>
+				<g clip-path="url(#SVGID_10_)">
+					
+						<image overflow="visible" opacity="0.75" width="1388" height="1909" xlink:href="E5A1F9F5.png"  transform="matrix(0.24 0 0 0.24 10.3047 44.6953)">
+					</image>
+					<g>
+						
+							<image overflow="visible" width="2355" height="3335" xlink:href="../assets/images/blog/sketches12.jpg"  transform="matrix(0.1284 0 0 0.1284 25.6416 59.231)">
+						</image>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+</g>
+<line fill="#6D6E71" x1="25.638" y1="273.358" x2="826.97" y2="273.358"/>
+</svg>
