@@ -3427,14 +3427,14 @@ img {
 }
 
 .portfolio-section .grid:hover .details {
-  background: #6220d9;
+  background: #f1f1f1;
 }
 
 .portfolio-section .details h3 {
   font-size: 22px;
   font-size: calc-remd-value(22);
   font-weight: 600;
-  color: #fff;
+  color: #000;
   margin: 0 0 0.35em;
   padding-right: 115px;
 }
@@ -3456,7 +3456,7 @@ img {
 .portfolio-section .details .cat {
   font-size: 12px;
   font-size: calc-remd-value(12);
-  color: #fff;
+  color: #000;
   letter-spacing: 2px;
   text-transform: uppercase;
 }
@@ -3466,9 +3466,9 @@ img {
   font-size: 14px;
   font-size: 0.93333rem;
   font-weight: 600;
-  color: #fff;
+  color: #000;
   padding: 6px 20px;
-  border: 2px solid #d1d1d1;
+  border: 2px solid #000;
   border-radius: 50px;
   display: inline-block;
   position: absolute;
@@ -3489,7 +3489,7 @@ img {
     font-size: 12px;
     font-size: 0.8rem;
     padding: 4px 13px;
-    border: 2px solid #d1d1d1;
+    border: 1px solid #000;
   }
 }
 
