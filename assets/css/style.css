@@ -3401,17 +3401,18 @@ img {
 }
 
 .portfolio-section .details {
+  visibility: hidden; /* Hides portfolio details, shown on hover below */
   background: transparent;
   width: 100%;
   padding: 32px 38px 28px;
   position: absolute;
   left: 0;
   top: 0;
-  -webkit-transition: all 0.3s;
-  -moz-transition: all 0.3s;
-  -o-transition: all 0.3s;
-  -ms-transition: all 0.3s;
-  transition: all 0.3s;
+  -webkit-transition: all 0.1s; /* Transition for hover, currently too quick */
+  -moz-transition: all 0.1s;
+  -o-transition: all 0.1s;
+  -ms-transition: all 0.1s;
+  transition: all 0.1s;
 }
 
 @media (max-width: 767px) {
@@ -3422,6 +3423,7 @@ img {
 
 .portfolio-section .grid:hover .details {
   background: #f1f1f1;
+  visibility: visible; /* Shows portfolio details on hover */
 }
 
 .portfolio-section .details h3 {
