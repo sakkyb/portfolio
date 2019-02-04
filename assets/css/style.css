@@ -3384,14 +3384,8 @@ img {
 }
 
 .portfolio-section .portfolio-grids .grid {
-  width: 33.33%;
+  width: 50%;
   float: left;
-}
-
-@media (max-width: 991px) {
-  .portfolio-section .portfolio-grids .grid {
-    width: 50%;
-  }
 }
 
 @media (max-width: 650px) {
