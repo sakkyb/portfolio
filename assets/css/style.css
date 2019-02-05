@@ -3553,10 +3553,10 @@ img {
 }
 
 .portfolio-section .grid2:hover .img-holder img {
-  -webkit-transform: scale(1.2, 1.2);
-  -ms-transform: scale(1.2, 1.2);
-  transform: scale(1.2, 1.2);
-}
+  -webkit-transform: scale(1.085, 1.085);
+  -ms-transform: scale(1.085, 1.085);
+  transform: scale(1.085, 1.085);
+} 
 
 /*--------------------------------------------------------------
 #0.9	testimonials-section
