@@ -3388,6 +3388,12 @@ img {
   float: left;
 }
 
+/* Alternative grid layout for 100% width */
+.portfolio-section .portfolio-grids .grid2 {
+  width: 100%;
+  float: left;
+}
+
 @media (max-width: 650px) {
   .portfolio-section .portfolio-grids .grid {
     width: 100%;
@@ -3396,6 +3402,12 @@ img {
 }
 
 .portfolio-section .grid {
+  position: relative;
+  overflow: hidden;
+}
+
+/* Alternative grid layout for 100% width */
+.portfolio-section .grid2 {
   position: relative;
   overflow: hidden;
 }
@@ -3422,6 +3434,11 @@ img {
 }
 
 .portfolio-section .grid:hover .details {
+  background: #f1f1f1;
+  visibility: visible; /* Shows portfolio details on hover */
+}
+
+.portfolio-section .grid2:hover .details {
   background: #f1f1f1;
   visibility: visible; /* Shows portfolio details on hover */
 }
@@ -3516,6 +3533,26 @@ img {
 }
 
 .portfolio-section .grid:hover .img-holder img {
+  -webkit-transform: scale(1.2, 1.2);
+  -ms-transform: scale(1.2, 1.2);
+  transform: scale(1.2, 1.2);
+}
+
+.portfolio-section .grid2:hover .details .view-project {
+  opacity: 1;
+  visibility: visible;
+  margin-top: 0;
+}
+
+.portfolio-section .grid2 .img-holder img {
+  -webkit-transition: all 0.6s;
+  -moz-transition: all 0.6s;
+  -o-transition: all 0.6s;
+  -ms-transition: all 0.6s;
+  transition: all 0.6s;
+}
+
+.portfolio-section .grid2:hover .img-holder img {
   -webkit-transform: scale(1.2, 1.2);
   -ms-transform: scale(1.2, 1.2);
   transform: scale(1.2, 1.2);
@@ -6356,7 +6393,7 @@ img {
   margin-bottom: 30px;
   border-radius: 50%;
   -webkit-box-shadow: 0 6px 6px rgba(0, 0, 0, 0.1);
-  box-shadow: 0 6px 6px rgba(0, 0, 0, 0.1);
+  box-shadow: 0px 0px 0px 1px rgba(0.1, 0.1, 0.1, 0.1);
 }
 
 @media (max-width: 1199px) {
