@@ -7429,7 +7429,7 @@ img {
 .blog-single-section .entry-body p {
   line-height: 1.81em;
   color: #6a6a6a;
-  margin-bottom: 35px;
+  margin-bottom: 20px;
 }
 
 .blog-single-section .tag-share {
@@ -7851,7 +7851,7 @@ img {
 }
 
 .blog-single-section .comments ol > li {
-  margin-bottom: 35px;
+  margin-bottom: 20px;
 }
 
 .blog-single-section .comments ol > li:last-child {
@@ -7872,7 +7872,7 @@ img {
 
 .blog-single-section .comments ol > li > ol > li {
   background-color: #fafafa;
-  margin-bottom: 35px !important;
+  margin-bottom: 20px !important;
 }
 
 .blog-single-section .comments ol > li > ol > li:last-child {
